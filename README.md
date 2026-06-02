@@ -17,7 +17,7 @@ The dashboard helps in:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 
 | Tool | Purpose |
 |------|---------|
